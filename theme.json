@@ -66,11 +66,11 @@
     "SPOILER_HIDDEN_BACKGROUND": ["#1a1a1a"],
     "STATUS_DANGER": ["#c62828"],
     "STATUS_DANGER_BACKGROUND": ["#c62828"],
-    "STATUS_DANGER_TEXT": ["#c62828"],
+    "STATUS_DANGER_TEXT": ["#ffffff"],
     "POLLS_NORMAL_FILL_HOVER": ["#1a1a1a"],
     "POLLS_NORMAL_IMAGE_BACKGROUND": ["#0d0d0d"],
     "POLLS_VICTOR_FILL": ["#c6282880"],
-    "TEXT_LINK": ["#c62828"],
+    "TEXT_LINK": ["#e57373"],
     "TEXT_MUTED": ["#c62828"],
     "TEXT_NORMAL": ["#e57373"],
     "TEXT_PRIMARY": ["#c62828"],
@@ -98,7 +98,9 @@
     "PRIVATE_CHANNEL_NAME": ["#c62828"],
     "DM_CHANNEL_NAME": ["#c62828"],
     "DM_LIST_ITEM": ["#c62828"],
-    "DM_CHANNEL": ["#c62828"]
+    "DM_CHANNEL": ["#c62828"],
+    "MARKUP_TEXT": ["#e57373"],
+    "MESSAGE_CONTENT": ["#e57373"]
   },
   "rawColors": {
     "BLUE_260": "#c62828",
@@ -161,7 +163,7 @@
     "PRIMARY_460": "#1a1a1a",
     "PRIMARY_500": "#c62828",
     "PRIMARY_530": "#c62828",
-    "PRIMARY_600": "#c62828",
+    "PRIMARY_600": "#ffffff",
     "PRIMARY_630": "#000000",
     "PRIMARY_645": "#0a0a0a",
     "PRIMARY_660": "#0a0a0a",
@@ -245,8 +247,8 @@
       "TrashIcon": "#c62828",
       "TriangleExclamationPointIcon": "#c62828",
       "toast_copy_link": "#c62828",
-      "toast_copy_message": "#c62828",
-      "toast_image_saved": "#c62828"
+      "toast_copy_message": "#ffffff",
+      "toast_image_saved": "#ffffff"
     }
   },
   "background": {
