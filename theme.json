@@ -1,7 +1,7 @@
 {
   "name": "Crimson Ember",
   "description": "A dark red-black theme with custom background image.",
-  "version": "1",
+  "version": "2",
   "authors": [
     {
       "name": "kmmiio99o.dev",
@@ -9,7 +9,7 @@
     }
   ],
   "semanticColors": {
-    "ANDROID_RIPPLE": ["#c62828"],
+    "ANDROID_RIPPLE": ["#ef5350"],
     "CHAT_BACKGROUND": ["#000000"],
     "BACKGROUND_ACCENT": ["#ef5350"],
     "BACKGROUND_FLOATING": ["#0a0a0a"],
