@@ -1,7 +1,7 @@
 {
   "name": "Crimson Ember",
   "description": "A dark red-black theme with custom background image.",
-  "version": "2",
+  "version": "4",
   "authors": [
     {
       "name": "kmmiio99o.dev",
@@ -62,7 +62,17 @@
     "REDESIGN_BUTTON_DANGER_BACKGROUND": ["#8b0000"],
     "BUTTON_SECONDARY_BACKGROUND": ["#1a1a1a"],
     "BUTTON_SECONDARY_TEXT": ["#ef5350"],
+    "BUTTON_OUTLINE_BACKGROUND": ["#1a1a1a"],
+    "BUTTON_OUTLINE_BORDER": ["#ef5350"],
+    "BUTTON_OUTLINE_TEXT": ["#ef5350"],
     "CONTROL_BUTTON_SECONDARY_BACKGROUND": ["#1a1a1a"],
+    "CONTROL_BUTTON_SECONDARY_TEXT": ["#ef5350"],
+    "CONTROL_PRIMARY_BACKGROUND_DEFAULT": ["#1a1a1a"],
+    "CONTROL_PRIMARY_BACKGROUND_ACTIVE": ["#c62828"],
+    "CONTROL_SECONDARY_BACKGROUND_DEFAULT": ["#1a1a1a"],
+    "CONTROL_SECONDARY_BACKGROUND_ACTIVE": ["#1a1a1a"],
+    "CONTROL_SECONDARY_BORDER_DEFAULT": ["#ef5350"],
+    "CONTROL_SECONDARY_TEXT": ["#ef5350"],
     "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": ["#ef5350"],
     "REDESIGN_CHANNEL_NAME_TEXT": ["#ef5350"],
     "REDESIGN_CHANNEL_NAME_TEXT_SELECTED": ["#c62828"],
@@ -109,7 +119,11 @@
     "BODY_TEXT": ["#ef5350"],
     "MESSAGE_TEXT": ["#ef5350"],
     "SLATE_TEXT": ["#ef5350"],
-    "CONTENT_TEXT": ["#ef5350"]
+    "CONTENT_TEXT": ["#ef5350"],
+    "FOLDER_ICON": ["#8e9297"],
+    "GUILD_FOLDER_ICON": ["#8e9297"],
+    "FOLDER_ICON_COLOR": ["#8e9297"],
+    "GUILD_FOLDER_ICON_COLOR": ["#8e9297"]
   },
   "rawColors": {
     "BLUE_260": "#c62828",
